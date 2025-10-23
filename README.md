@@ -100,68 +100,23 @@ const Jiaeboy = {
 
 ---
 
-## 🎯 当前状态
+## 🌱 正在学习
 
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-<div align="center">
-
-### 🌱 正在学习
 - 🔥 深入研究前端框架和性能优化
 - 🚀 探索云原生技术和微服务架构
 - 📝 持续更新技术博客，分享学习心得
 - 🎨 提升 UI/UX 设计能力
 
-### 💬 联系我
+---
+
+## 💬 联系我
+
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-Jiaeboy-181717?style=for-the-badge&logo=github)](https://github.com/Jiaeboy)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
-
----
-
-## 🎨 精选项目
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiaeboy&repo=Jiaeboy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=C9D1D9)](https://github.com/Jiaeboy/Jiaeboy)
-
-</div>
-
----
-
-## 📝 最新博客文章
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 正在筹备中，敬请期待...
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### 💭 每日一言
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🎵 Spotify 正在播放
-
-[![Spotify](https://novatorem-jiaeboy.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
----
-
-### 🐍 贡献蛇
-
-![snake gif](https://github.com/Jiaeboy/Jiaeboy/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
