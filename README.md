@@ -2,7 +2,6 @@
 
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=Jiaeboy&show_icons=true&theme=radical&hide_border=true)
 
-![](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Jiaeboy&layout=compact&theme=radical&hide_border=true)
 
 ## 🛠 Tech Stack
 
